@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(76, 76, 76);
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+header{
+    background-color: white;
+}
+.container{
+    background-color: rgb(122, 120, 118);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .content1{
+    background-color: rgb(122, 120, 118);
+    color: white;
+    text-align: center;
+    border: 3px solid rgb(248, 255, 248);
+  }
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.contactnav a{
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.contactnav a:hover{
+    background-color:#ffffff;
+    color: black;
+    border-radius: 15%;
+}
+.footer{
+  text-align: center;
+  color: white;
+  border: 3px solid rgb(0, 0, 0);
+
+}
